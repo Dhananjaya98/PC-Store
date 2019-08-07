@@ -15,7 +15,7 @@
         android:layout_marginStart="64dp"
         android:layout_marginTop="60dp"
         android:layout_marginEnd="64dp"
-        android:text="Add Item"
+        android:text="@string/addtxt5"
         android:textAlignment="center"
         android:textSize="35dp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -29,7 +29,7 @@
         android:layout_marginEnd="148dp"
         android:layout_marginBottom="32dp"
         android:background="@android:color/holo_blue_bright"
-        android:text="Button"
+        android:text="@string/addbtn1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -49,7 +49,7 @@
         android:layout_height="36dp"
         android:layout_marginStart="76dp"
         android:layout_marginTop="336dp"
-        android:text="TextView"
+        android:text="@string/addtxt3"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -59,7 +59,7 @@
         android:layout_height="36dp"
         android:layout_marginStart="76dp"
         android:layout_marginTop="228dp"
-        android:text="TextView"
+        android:text="@string/addtxt2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -69,7 +69,7 @@
         android:layout_height="36dp"
         android:layout_marginStart="80dp"
         android:layout_marginTop="440dp"
-        android:text="TextView"
+        android:text="@string/addtxt4"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -89,7 +89,7 @@
         android:layout_height="36dp"
         android:layout_marginStart="76dp"
         android:layout_marginTop="132dp"
-        android:text="TextView"
+        android:text="@string/addtxt1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -100,7 +100,6 @@
         android:layout_marginEnd="16dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView9"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -111,7 +110,6 @@
         android:layout_marginEnd="16dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView11"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -122,7 +120,6 @@
         android:layout_marginEnd="16dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView10"
         app:layout_constraintEnd_toEndOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

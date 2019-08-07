@@ -15,7 +15,7 @@
         android:layout_marginEnd="152dp"
         android:layout_marginBottom="108dp"
         android:background="@android:color/holo_blue_bright"
-        android:text="Button"
+        android:text="@string/updtbtn1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -25,7 +25,7 @@
         android:layout_height="36dp"
         android:layout_marginStart="76dp"
         android:layout_marginTop="132dp"
-        android:text="TextView"
+        android:text="@string/updttxt1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -35,7 +35,7 @@
         android:layout_height="36dp"
         android:layout_marginStart="76dp"
         android:layout_marginTop="216dp"
-        android:text="TextView"
+        android:text="@string/updttxt2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -45,7 +45,7 @@
         android:layout_height="36dp"
         android:layout_marginStart="76dp"
         android:layout_marginTop="308dp"
-        android:text="TextView"
+        android:text="@string/updttxt3"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -55,7 +55,7 @@
         android:layout_height="36dp"
         android:layout_marginStart="80dp"
         android:layout_marginTop="388dp"
-        android:text="TextView"
+        android:text="@string/updttxt4"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -66,7 +66,7 @@
         android:layout_marginStart="64dp"
         android:layout_marginTop="48dp"
         android:layout_marginEnd="64dp"
-        android:text="Update Item"
+        android:text="@string/updttxt5"
         android:textAlignment="center"
         android:textSize="35dp"
         app:layout_constraintEnd_toEndOf="parent"
