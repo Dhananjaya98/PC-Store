@@ -52,6 +52,34 @@
     <string name="txt30">signup</string>
     <string name="txt31">signin</string>
 
+    <string name="app_name">Pc Store</string>
+    <string name="header">Admin Panel</string>
+    <string name="add">Add Item</string>
+    <string name="dlt">Delete Item</string>
+    <string name="update">Update Details</string>
+    <string name="refund">Refund</string>
+    <string name="feedback">FeedBack</string>
+    <string name="usrManage">User Handler</string>
+    <string name="addtxt1">Item Name</string>
+    <string name="addtxt2">Item ID</string>
+    <string name="addtxt3">Item Quantity</string>
+    <string name="addtxt4">Item Price</string>
+    <string name="addtxt5">Add Items</string>
+    <string name="addbtn1">Add Items</string>
+    <string name="dlttxt3">Item Quantity</string>
+    <string name="dlttxt1">Item Name</string>
+    <string name="dlttxt2">Item ID</string>
+    <string name="dlttxt4">Delete Items</string>
+    <string name="dltbtn1">Add Items</string>
+    <string name="updttxt1">Item Name</string>
+    <string name="updttxt2">Item ID</string>
+    <string name="updttxt3">Item Quantity</string>
+    <string name="updttxt4">Item Price</string>
+    <string name="updttxt5">Update Items</string>
+    <string name="updtbtn1">Update Items</string>
+    <string name="logintxt1">User Name</string>
+    <string name="logintxt2">Password</string>
+
 
 
 </resources>
