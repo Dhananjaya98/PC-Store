@@ -7,29 +7,21 @@
     <string name="refund">Refund</string>
     <string name="feedback">FeedBack</string>
     <string name="usrManage">User Handler</string>
-
     <string name="addtxt1">Item Name</string>
     <string name="addtxt2">Item ID</string>
     <string name="addtxt3">Item Quantity</string>
     <string name="addtxt4">Item Price</string>
     <string name="addtxt5">Add Items</string>
-
     <string name="addbtn1">Add Items</string>
-
-
     <string name="dlttxt3">Item Quantity</string>
     <string name="dlttxt1">Item Name</string>
     <string name="dlttxt2">Item ID</string>
     <string name="dlttxt4">Delete Items</string>
     <string name="dltbtn1">Add Items</string>
-
-
     <string name="updttxt1">Item Name</string>
     <string name="updttxt2">Item ID</string>
     <string name="updttxt3">Item Quantity</string>
     <string name="updttxt4">Item Price</string>
     <string name="updttxt5">Update Items</string>
     <string name="updtbtn1">Update Items</string>
-
-
 </resources>
