@@ -35,5 +35,8 @@
     <string name="logintxt2">Password</string>
     <string name="loginbtn">LogIN</string>
 
+    <string name="loginbtn1">Admmin LogIN</string>
+    <string name="loginbtn2">User LogIN</string>
+    <string name="loginbtn3">LogIN</string>
 
 </resources>
