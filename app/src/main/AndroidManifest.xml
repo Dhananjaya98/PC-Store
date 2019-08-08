@@ -9,10 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".adminLog"/>
-
-
-        <activity android:name=".LogIN" >
+        <activity android:name=".Pay"></activity>
+        <activity android:name=".PaymentDetails" />
+        <activity android:name=".Items" />
+        <activity android:name=".adminLog" />
+        <activity android:name=".LogIN">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -21,8 +22,7 @@
         </activity>
         <activity android:name=".Feedback" />
         <activity android:name=".ManageUsers" />
-        <activity android:name=".Refunds"/>
-
+        <activity android:name=".Refunds" />
         <activity android:name=".UpdateItem" />
         <activity android:name=".AddItem" />
         <activity android:name=".deleteItem" />

@@ -39,4 +39,23 @@
     <string name="loginbtn2">User LogIN</string>
     <string name="loginbtn3">LogIN</string>
 
+
+    <string name="app_name1">Payment</string>
+    <string name="card_number"> Card Number </string>
+    <string name="Name_of_card"> Name Of Card </string>
+    <string name="cv_cord"> CV Card</string>
+    <string name="expiry_date">Eapiry Date</string>
+    <string name="add1">ADD</string>
+    <string name="update1">UPDATE</string>
+    <string name="pay">PAY</string>
+    <string name="delete">DELETE</string>
+    <string name="buy">BUY</string>
+    <string name="set_up_your_payment">Set up your Payment</string>
+    <string name="ddetails">Computer Items Details</string>
+    <string name="ram">RAM</string>
+    <string name="vga">VGA</string>
+    <string name="processer">PROCESSER</string>
+    <string name="fan">FAN</string>
+
+
 </resources>
