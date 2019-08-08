@@ -1,0 +1,57 @@
+<resources>
+    <string name="txt">Welcome</string>
+    <string name="app_name">"App1</string>
+    <string name="txt1">Please enter your personal info</string>
+    <string name="txt2">Enter your login or email</string>
+    <string name="txt3">Enter the password</string>
+    <string name="txt4">signin</string>
+    <string name="txt5">Welcome</string>
+    <string name="txt6">Login via a social network</string>
+    <string name="txt7">facebook</string>
+    <string name="txt8">twitter</string>
+    <string name="txt9">instergram</string>
+    <string name="txt10">Enter the usernane and password or register</string>
+    <string name="txt11">signin</string>
+    <string name="txt12">singup</string>
+    <string name="txt13">Please enter your personal info</string>
+    <string name="txt14">welcome</string>
+    <string name="txt15">Enter login</string>
+    <string name="txt16">Enter your email</string>
+    <string name="txt17">Enter the password</string>
+    <string name="txt18">Re-enter the password</string>
+    <string name="txt19">signup</string>
+    <string name="txt20">all items</string>
+    <string name="txt21">if you want to buy please clock on the button</string>
+    <string name="txt22">fan</string>
+    <string name="txt23">h</string>
+    <string name="txt24">ram</string>
+    <string name="txt25">key board</string>
+    <string name="txt26">mouse</string>
+    <string name="txt27">buffel</string>
+    <string name="txt28">monitor</string>
+    <string name="txt32">mother board</string>
+    <string name="txt33">discription</string>
+    <string name="txt34">i want to buy it</string>
+    <string name="txt35">sign up</string>
+    <string name="txt36">hard-Disk</string>
+    <string name="txt37">discription</string>
+    <string name="txt38">i want to buy it</string>
+    <string name="txt40">sign in</string>
+    <string name="txt41">Ram</string>
+    <string name="txt42">diacription</string>
+    <string name="txt43">I want to bye it</string>
+    <string name="txt44">sign in</string>
+    <string name="txt45">monitor</string>
+    <string name="txt46">discription</string>
+    <string name="txt47">I want to buy it</string>
+    <string name="txt48">signup</string>
+    <string name="txt49">mouse</string>
+    <string name="txt50">discription</string>
+    <string name="txt51">signup</string>
+    <string name="txt29">sign in</string>
+    <string name="txt30">signup</string>
+    <string name="txt31">signin</string>
+
+
+
+</resources>
