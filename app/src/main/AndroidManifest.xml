@@ -9,10 +9,20 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".adminLog"/>
-
-
-        <activity android:name=".LogIN" >
+        <activity android:name=".inter13"></activity>
+        <activity android:name=".inter12" />
+        <activity android:name=".inter11" />
+        <activity android:name=".inter10" />
+        <activity android:name=".inter9" />
+        <activity android:name=".inter7" />
+        <activity android:name=".inter6" />
+        <activity android:name=".inter5" />
+        <activity android:name=".inter4" />
+        <activity android:name=".inter2" />
+        <activity android:name=".inter3" />
+        <activity android:name=".log_in" />
+        <activity android:name=".adminLog" />
+        <activity android:name=".LogIN">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -21,8 +31,7 @@
         </activity>
         <activity android:name=".Feedback" />
         <activity android:name=".ManageUsers" />
-        <activity android:name=".Refunds"/>
-
+        <activity android:name=".Refunds" />
         <activity android:name=".UpdateItem" />
         <activity android:name=".AddItem" />
         <activity android:name=".deleteItem" />
