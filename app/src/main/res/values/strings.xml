@@ -31,9 +31,7 @@
     <string name="updttxt5">Update Items</string>
     <string name="updtbtn1">Update Items</string>
 
-    <string name="logintxt1">User Name</string>
-    <string name="logintxt2">Password</string>
-    <string name="loginbtn">LogIN</string>
+   
     <string name="loginbtn1">Admmin LogIN</string>
     <string name="loginbtn2">User LogIN</string>
     <string name="loginbtn3">LogIN</string>
