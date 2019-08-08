@@ -25,8 +25,7 @@
     <string name="logintxt1">User Name</string>
     <string name="logintxt2">Password</string>
 
-    <string name="loginbtn1">Admmin LogIN</string>
-    <string name="loginbtn2">User LogIN</string>
+
 
 
     <string name="updttxt1">Item Name</string>
