@@ -82,4 +82,8 @@
     <string name="welcome">Welcome</string>
     <string name="sp">Setup you\'re Payment</string>
     <string name="gt">Get Start</string>
+    <string name="fill">Fill Your Payment Details</string>
+    <string name="visa">Visa</string>
+    <string name="master">Master</string>
+    <string name="ps">Proceed Payment</string>
 </resources>
