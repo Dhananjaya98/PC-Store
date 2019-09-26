@@ -22,12 +22,12 @@ public class add_pay extends AppCompatActivity {
         }
         return false;
     }
-    //private  boolean incvc(String nt4){
-    //  if(!Pattern.matches("[a-zA-Z]+", nt4)){
-    //    return  nt4.length()!= 3;
-    //}
-    //return false;
-    //}
+    private  boolean incvc(String nt4){
+      if(!Pattern.matches("[a-zA-Z]+", nt4)){
+        return  nt4.length()!= 3;
+    }
+    return false;
+    }
 
 
     @Override
@@ -84,9 +84,9 @@ public class add_pay extends AppCompatActivity {
                 else if(inValidMobile(nt2.getText().toString())){
                     Toast.makeText(getApplicationContext(),"please enter a valid card number", Toast.LENGTH_SHORT).show();
                 }
-                // else if(inValidMobile(nt4.getText().toString())){
-                //    Toast.makeText(getApplicationContext(),"please enter a valid cvc number", Toast.LENGTH_SHORT).show();
-                //}
+                else if(incvc(nt4.getText().toString())){
+                    Toast.makeText(getApplicationContext(),"please enter a valid cvc number", Toast.LENGTH_SHORT).show();
+                }
 
 
                 else{
