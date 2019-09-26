@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "923641239113",
+    "firebase_url": "https://pc-store-822ed.firebaseio.com",
+    "project_id": "pc-store-822ed",
+    "storage_bucket": "pc-store-822ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923641239113:android:e3082be87bebdfcaf99198",
+        "android_client_info": {
+          "package_name": "com.example.pcstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923641239113-c83i3090696pctmcm56dhohdnl3b50in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pcstore",
+            "certificate_hash": "fa22b40e7a0e81e3af355164cfb64a6d026ceb27"
+          }
+        },
+        {
+          "client_id": "923641239113-d8ffbi3kmnhrr9j00s2e78qvpag2f0h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNRcmaDD9P4HYOcbrNzShqnnXuaYYTU6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923641239113-d8ffbi3kmnhrr9j00s2e78qvpag2f0h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
