@@ -9,24 +9,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Pay"></activity>
-        <activity android:name=".PaymentDetails" />
-        <activity android:name=".Items" />
-        <activity android:name=".adminLog" />
-        <activity android:name=".LogIN">
+        <activity android:name=".add_pay"></activity>
+        <activity android:name=".pay_details" />
+        <activity android:name=".all_pay" />
+        <activity android:name=".view_payment" />
+
+        <activity android:name=".main_payment">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Feedback" />
-        <activity android:name=".ManageUsers" />
-        <activity android:name=".Refunds" />
-        <activity android:name=".UpdateItem" />
-        <activity android:name=".AddItem" />
-        <activity android:name=".deleteItem" />
-        <activity android:name=".MainActivity" />
+
     </application>
 
 </manifest>

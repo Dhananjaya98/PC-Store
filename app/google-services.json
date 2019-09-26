@@ -1,21 +1,58 @@
 {
   "project_info": {
-    "project_number": "923641239113",
-    "firebase_url": "https://pc-store-822ed.firebaseio.com",
-    "project_id": "pc-store-822ed",
-    "storage_bucket": "pc-store-822ed.appspot.com"
+    "project_number": "784739381492",
+    "firebase_url": "https://paymentpc-4e0a9.firebaseio.com",
+    "project_id": "paymentpc-4e0a9",
+    "storage_bucket": "paymentpc-4e0a9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:923641239113:android:e3082be87bebdfcaf99198",
+        "mobilesdk_app_id": "1:784739381492:android:be032e91b238e09bc92ea1",
+        "android_client_info": {
+          "package_name": "com.example.payment_manage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784739381492-7rn94derfim71b6cngelkgg3mordb15u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payment_manage",
+            "certificate_hash": "fa22b40e7a0e81e3af355164cfb64a6d026ceb27"
+          }
+        },
+        {
+          "client_id": "784739381492-am3d73cqovhf27vkg3gaqiaem2csv6nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCslOwvLBFQQfZ9OZk_tzFlpBQ3HLxinP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784739381492-am3d73cqovhf27vkg3gaqiaem2csv6nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784739381492:android:19b3248b090a2c14c92ea1",
         "android_client_info": {
           "package_name": "com.example.pcstore"
         }
       },
       "oauth_client": [
         {
-          "client_id": "923641239113-c83i3090696pctmcm56dhohdnl3b50in.apps.googleusercontent.com",
+          "client_id": "784739381492-2n4s327bojf404fh9k1d3angrn6rtdv2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.pcstore",
@@ -23,20 +60,49 @@
           }
         },
         {
-          "client_id": "923641239113-d8ffbi3kmnhrr9j00s2e78qvpag2f0h3.apps.googleusercontent.com",
+          "client_id": "784739381492-am3d73cqovhf27vkg3gaqiaem2csv6nt.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBNRcmaDD9P4HYOcbrNzShqnnXuaYYTU6I"
+          "current_key": "AIzaSyCslOwvLBFQQfZ9OZk_tzFlpBQ3HLxinP0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "923641239113-d8ffbi3kmnhrr9j00s2e78qvpag2f0h3.apps.googleusercontent.com",
+              "client_id": "784739381492-am3d73cqovhf27vkg3gaqiaem2csv6nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784739381492:android:a2d75434c22f3b32c92ea1",
+        "android_client_info": {
+          "package_name": "com.short.company"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784739381492-am3d73cqovhf27vkg3gaqiaem2csv6nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCslOwvLBFQQfZ9OZk_tzFlpBQ3HLxinP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784739381492-am3d73cqovhf27vkg3gaqiaem2csv6nt.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

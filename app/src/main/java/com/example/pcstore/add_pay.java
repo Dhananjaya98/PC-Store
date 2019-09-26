@@ -35,7 +35,7 @@ public class add_pay extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_pay);
 
-        final EditText nt1 = findViewById(R.id.RegID);
+        final EditText nt1 = findViewById(R.id.Rid);
         final EditText nt2 = findViewById(R.id.CnoID);
         final EditText nt3 = findViewById(R.id.NamID);
         final EditText nt4 = findViewById(R.id.CvcID);
@@ -117,7 +117,6 @@ public class add_pay extends AppCompatActivity {
         startActivity(intent);
     }
 }
-
 
 
 
